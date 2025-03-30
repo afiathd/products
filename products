@@ -1,0 +1,92 @@
+[
+{
+"id": 1,
+"name": "Basic Tee",
+"href": "#",
+"imageSrc": "https://source.unsplash.com/400x400/?tshirt",
+"imageAlt": "Front of men's Basic Tee in black.",
+"price": "$35",
+"color": "Black"
+},
+{
+"id": 2,
+"name": "Casual Shirt",
+"href": "#",
+"imageSrc": "https://source.unsplash.com/400x400/?shirt",
+"imageAlt": "Men's casual shirt in blue.",
+"price": "$45",
+"color": "Blue"
+},
+{
+"id": 3,
+"name": "Running Shoes",
+"href": "#",
+"imageSrc": "https://source.unsplash.com/400x400/?shoes",
+"imageAlt": "Comfortable running shoes.",
+"price": "$80",
+"color": "White"
+},
+{
+"id": 4,
+"name": "Leather Jacket",
+"href": "#",
+"imageSrc": "https://source.unsplash.com/400x400/?jacket",
+"imageAlt": "Stylish leather jacket.",
+"price": "$120",
+"color": "Brown"
+},
+{
+"id": 5,
+"name": "Denim Jeans",
+"href": "#",
+"imageSrc": "https://source.unsplash.com/400x400/?jeans",
+"imageAlt": "Classic denim jeans.",
+"price": "$60",
+"color": "Blue"
+},
+{
+"id": 6,
+"name": "Hoodie",
+"href": "#",
+"imageSrc": "https://source.unsplash.com/400x400/?hoodie",
+"imageAlt": "Warm hoodie for cold days.",
+"price": "$50",
+"color": "Gray"
+},
+{
+"id": 7,
+"name": "Sunglasses",
+"href": "#",
+"imageSrc": "https://source.unsplash.com/400x400/?sunglasses",
+"imageAlt": "Stylish sunglasses.",
+"price": "$25",
+"color": "Black"
+},
+{
+"id": 8,
+"name": "Backpack",
+"href": "#",
+"imageSrc": "https://source.unsplash.com/400x400/?backpack",
+"imageAlt": "Durable backpack for everyday use.",
+"price": "$55",
+"color": "Green"
+},
+{
+"id": 9,
+"name": "Smart Watch",
+"href": "#",
+"imageSrc": "https://source.unsplash.com/400x400/?watch",
+"imageAlt": "Modern smartwatch with health tracking.",
+"price": "$150",
+"color": "Black"
+},
+{
+"id": 10,
+"name": "Cap",
+"href": "#",
+"imageSrc": "https://source.unsplash.com/400x400/?cap",
+"imageAlt": "Sporty cap for sunny days.",
+"price": "$20",
+"color": "Red"
+}
+]
