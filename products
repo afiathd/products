@@ -3,7 +3,7 @@
 "id": 1,
 "name": "Basic Tee",
 "href": "#",
-"imageSrc": "https://source.unsplash.com/400x400/?tshirt",
+"imageSrc": "https://onsize.eu/cdn/shop/files/nike-x-stussy-the-wide-world-tribe-t-shirt-white-373487.webp?v=1718913566&width=2048",
 "imageAlt": "Front of men's Basic Tee in black.",
 "price": "$35",
 "color": "Black"
@@ -12,7 +12,7 @@
 "id": 2,
 "name": "Casual Shirt",
 "href": "#",
-"imageSrc": "https://source.unsplash.com/400x400/?shirt",
+"imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQleKM7TAvMhgBDuuNfOKNwq6ntNaoWa4tbaA&s",
 "imageAlt": "Men's casual shirt in blue.",
 "price": "$45",
 "color": "Blue"
@@ -21,7 +21,7 @@
 "id": 3,
 "name": "Running Shoes",
 "href": "#",
-"imageSrc": "https://source.unsplash.com/400x400/?shoes",
+"imageSrc": "https://s13emagst.akamaized.net/products/84229/84228269/images/res_ed4b4d55131ce112618d3501363dddbb.jpg",
 "imageAlt": "Comfortable running shoes.",
 "price": "$80",
 "color": "White"
@@ -30,7 +30,7 @@
 "id": 4,
 "name": "Leather Jacket",
 "href": "#",
-"imageSrc": "https://source.unsplash.com/400x400/?jacket",
+"imageSrc": "https://www.instyle.com/thmb/y5i4aCiNrqSrirGfEQxPLwsuUk0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1460057219-36af2b68692748b4a77287a936c53a62-7447cc833b914b07a983dc7c542014ef.jpg",
 "imageAlt": "Stylish leather jacket.",
 "price": "$120",
 "color": "Brown"
@@ -39,7 +39,7 @@
 "id": 5,
 "name": "Denim Jeans",
 "href": "#",
-"imageSrc": "https://source.unsplash.com/400x400/?jeans",
+"imageSrc": "https://ksubi.uk/cdn/shop/collections/Denim_Category_Slider_WomensPointer_b8145409-a891-4800-b8ab-e3c262c570de.jpg?v=1741842264",
 "imageAlt": "Classic denim jeans.",
 "price": "$60",
 "color": "Blue"
@@ -48,7 +48,7 @@
 "id": 6,
 "name": "Hoodie",
 "href": "#",
-"imageSrc": "https://source.unsplash.com/400x400/?hoodie",
+"imageSrc": "https://xcdn.next.co.uk/common/items/default/default/itemimages/3_4Ratio/product/lge/B65730s.jpg?im=Resize,width=750",
 "imageAlt": "Warm hoodie for cold days.",
 "price": "$50",
 "color": "Gray"
@@ -57,7 +57,7 @@
 "id": 7,
 "name": "Sunglasses",
 "href": "#",
-"imageSrc": "https://source.unsplash.com/400x400/?sunglasses",
+"imageSrc": "https://eoptika.hu/img/43321/CA_302S_KB7HA_59/CA_302S_KB7HA_59.webp",
 "imageAlt": "Stylish sunglasses.",
 "price": "$25",
 "color": "Black"
@@ -66,7 +66,7 @@
 "id": 8,
 "name": "Backpack",
 "href": "#",
-"imageSrc": "https://source.unsplash.com/400x400/?backpack",
+"imageSrc": "https://www.thinktankphoto.com/cdn/shop/files/BackLight-26L-Montane-Green-Hero-Right_1000x.jpg?v=1725485106",
 "imageAlt": "Durable backpack for everyday use.",
 "price": "$55",
 "color": "Green"
@@ -75,7 +75,7 @@
 "id": 9,
 "name": "Smart Watch",
 "href": "#",
-"imageSrc": "https://source.unsplash.com/400x400/?watch",
+"imageSrc": "https://www.tonerpartners.hu/userdata/products/1438/ag581480-64fb2fa968e15.jpg",
 "imageAlt": "Modern smartwatch with health tracking.",
 "price": "$150",
 "color": "Black"
@@ -84,7 +84,7 @@
 "id": 10,
 "name": "Cap",
 "href": "#",
-"imageSrc": "https://source.unsplash.com/400x400/?cap",
+"imageSrc": "https://www.bfgcdn.com/1500_1500_90/204-6385-3011/patagonia-p-6-logo-lopro-trucker-hat-cap.jpg",
 "imageAlt": "Sporty cap for sunny days.",
 "price": "$20",
 "color": "Red"
